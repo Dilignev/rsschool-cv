@@ -6,3 +6,5 @@
 * assiduity
 * persistence
 * polite
+
+#### English level: B2
